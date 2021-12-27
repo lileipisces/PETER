@@ -1,7 +1,7 @@
 # PETER (PErsonalized Transformer for Explainable Recommendation)
 
 ## Paper
-- Lei Li, Yongfeng Zhang, Li Chen. Personalized Transformer for Explainable Recommendation. ACL'21. \[[Paper](https://lileipisces.github.io/files/ACL21-PETER-paper.pdf)\]
+- Lei Li, Yongfeng Zhang, Li Chen. [Personalized Transformer for Explainable Recommendation](https://lileipisces.github.io/files/ACL21-PETER-paper.pdf). ACL'21.
 
 **A large pretrained GPT-2 version is available at [PEPLER](https://github.com/lileipisces/PEPLER)!**
 
@@ -31,11 +31,11 @@ python -u main.py \
 --peter_mask >> tripadvisor.log
 ```
 
-## Code dependency
+## Code dependencies
 - Python 3.6
 - PyTorch 1.6
 
-## Code reference
+## Code references
 - [Word Language Model](https://github.com/pytorch/examples/blob/master/word_language_model)
 - [Sequence-to-Sequence Modeling with nn.Transformer and TorchText](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
 - [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
