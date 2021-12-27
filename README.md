@@ -1,7 +1,9 @@
 # PETER (PErsonalized Transformer for Explainable Recommendation)
 
 ## Paper
-> Lei Li, Yongfeng Zhang, Li Chen. Personalized Transformer for Explainable Recommendation. ACL'21. \[[Paper](https://lileipisces.github.io/files/ACL21-PETER-paper.pdf)\]
+- Lei Li, Yongfeng Zhang, Li Chen. Personalized Transformer for Explainable Recommendation. ACL'21. \[[Paper](https://lileipisces.github.io/files/ACL21-PETER-paper.pdf)\]
+
+**A large pretrained GPT-2 version is available at [PEPLER](https://github.com/lileipisces/PEPLER)!**
 
 ## Datasets to [download](https://drive.google.com/drive/folders/1z90ExLiEc1ZTyPir5qxbXxQOWslsspIH?usp=sharing)
 - TripAdvisor Hong Kong
