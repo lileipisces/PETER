@@ -5,6 +5,8 @@
 
 **A large pretrained GPT-2 version is available at [PEPLER](https://github.com/lileipisces/PEPLER)!**
 
+**A small ecosystem for Recommender Systems-based Natural Language Generation is available at [NLG4RS](https://github.com/lileipisces/NLG4RS)!**
+
 ## Datasets to [download](https://drive.google.com/drive/folders/1z90ExLiEc1ZTyPir5qxbXxQOWslsspIH?usp=sharing)
 - TripAdvisor Hong Kong
 - Amazon Movies & TV
